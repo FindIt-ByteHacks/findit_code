@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="add_item">Ajoute L\'objet</string>
+    <string name="your_item">Vos Articles</string>
+    <string name="home">Acceuil</string>
+    <string name="settings">parametres</string>
+    <string name="team">L\'equipe</string>
+    <string name="submit">soumettre</string>
+    <string name="fill_out_form">" Remplissez le formulaire, puis appuyez sur Soumettre"</string>
+    <string name="name_of_item">" Nom de l'article"</string>
+    <string name="lastlocated">" dernier situé dans / sur"</string>
+    <string name="search_through_category">" Recherchez vos articles par catégorie:"</string>
+    <string name="books">Livres</string>
+    <string name="important">Importante</string>
+    <string name="toys">Jouets</string>
+    <string name="other">Autre</string>
+    <string name="welcomeSettings">Bienvenue dans vos paramètres</string>
+    <string name="choose_language">" Elige tu idioma"</string>
+    <string name="select_language">"Seleccione el idioma "</string>
+    <string name="chooseTheme">"Elige tu tema "</string>
+    <string name="enable_darkMode">"Modo oscuro "</string>
+</resources>

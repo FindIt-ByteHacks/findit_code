@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FindIt</string>
+    <string name="add_item">saamaan joden</string>
+    <string name="your_item">aapake aaitam</string>
+    <string name="home">mukhaprshth</string>
+    <string name="settings">samaayojan</string>
+    <string name="team">teem</string>
+    <string name="submit">prastut</string>
+    <string name="fill_out_form">phorm bharen, phir sabamit dabaen</string>
+    <string name="name_of_item">mad ka naam</string>
+    <string name="lastlocated">antim par / mein sthit</string>
+    <string name="search_through_category">shrenee ke anusaar apane aaitam khojen:</string>
+    <string name="books">pustaken</string>
+    <string name="important">jarooree</string>
+    <string name="toys">khilaune</string>
+    <string name="other">any</string>
+    <string name="welcomeSettings">Apanee setings mein aapaka svaagat hai</string>
+    <string name="choose_language">Apanee setings chunen</string>
+    <string name="select_language">Apanee bhaasha chunen</string>
+    <string name="chooseTheme">Apanee theem chunen</string>
+    <string name="enable_darkMode">Daark mod</string>
+</resources>

@@ -81,18 +81,6 @@
         app:layout_constraintVertical_bias="0.636"
         app:srcCompat="@mipmap/ic_launcher_anshul" />
 
-    <ImageView
-        android:id="@+id/imageView15"
-        android:layout_width="74dp"
-        android:layout_height="79dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.056"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.821"
-        app:srcCompat="@mipmap/ic_launcher_nourhan" />
-
     <Button
         android:id="@+id/home_button"
         android:layout_width="131dp"
@@ -111,14 +99,14 @@
         android:layout_width="137dp"
         android:layout_height="36dp"
         android:text="Mark Antao"
-        android:textSize="25sp"
         android:textColor="#000"
+        android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.446"
+        app:layout_constraintHorizontal_bias="0.474"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.229" />
+        app:layout_constraintVertical_bias="0.228" />
 
     <TextView
         android:id="@+id/Cyra"
@@ -129,10 +117,10 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.445"
+        app:layout_constraintHorizontal_bias="0.474"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.432" />
+        app:layout_constraintVertical_bias="0.427" />
 
     <TextView
         android:id="@+id/Anshul"
@@ -143,80 +131,51 @@
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.534"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.594" />
-
-    <TextView
-        android:id="@+id/Nourhan"
-        android:layout_width="236dp"
-        android:layout_height="45dp"
-        android:text="Nourhan Mahgoub"
-        android:textColor="#000"
-        android:textSize="25sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.697"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.77" />
+        app:layout_constraintVertical_bias="0.603" />
 
     <TextView
         android:id="@+id/Markrole"
-        android:layout_width="262dp"
-        android:layout_height="39dp"
-        android:text="Team leader, UI, Kotlin Code"
-        android:textSize="20sp"
+        android:layout_width="272dp"
+        android:layout_height="56dp"
+        android:text="Team leader, UI, Kotlin Code, Database"
         android:textColor="#000"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.818"
+        app:layout_constraintHorizontal_bias="0.935"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.299" />
+        app:layout_constraintVertical_bias="0.288" />
 
     <TextView
         android:id="@+id/Cyrarole"
-        android:layout_width="280dp"
-        android:layout_height="40dp"
-        android:text="Design, Kotlin Code,  Database"
+        android:layout_width="269dp"
+        android:layout_height="63dp"
+        android:text="Fullstack developer, UI, and design"
         android:textColor="#000"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.923"
+        app:layout_constraintHorizontal_bias="0.915"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/Anshulrole"
         android:layout_width="262dp"
         android:layout_height="39dp"
-        android:text="Database"
+        android:text="Database, Kotlin Code"
         android:textColor="#000"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.812"
+        app:layout_constraintHorizontal_bias="0.872"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.661" />
-
-    <TextView
-        android:id="@+id/Nourhanrole"
-        android:layout_width="262dp"
-        android:layout_height="39dp"
-        android:text="UI"
-        android:textColor="#000"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.818"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.84" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
